@@ -1,0 +1,3 @@
+[submodule "src/perception/person-tracking"]
+	path = src/perception/person-tracking
+	url = https://github.com/Matthewjsiv/Person-Tracking-Tello-Drone.git
