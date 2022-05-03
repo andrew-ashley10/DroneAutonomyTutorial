@@ -1,3 +1,6 @@
 [submodule "src/perception/person-tracking"]
 	path = src/perception/person-tracking
 	url = https://github.com/Matthewjsiv/Person-Tracking-Tello-Drone.git
+[submodule "src/planning/controlNode"]
+	path = src/planning/controlNode
+	url = https://github.com/andrew-ashley10/controlNode.git
